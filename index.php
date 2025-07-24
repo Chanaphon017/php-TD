@@ -38,10 +38,13 @@
 
     <h1 style="color:red">WY MENU</h1>
     <ul>
-        <li><a href="W01_01_introphp.php">Intro PHP</a></li>
-        <li><a href="W02_01_oddEvenNunber.php">Odd-Even-Number</a></li>
+        <li><a href="W01_01_introPHP.php">Intro PHP</a></li>
+        <li><a href="W02_01_oddEvenNumber.php">Odd-Even-Number</a></li>
         <li><a href="W02_02_grade.php">Calute Grade</a></li>
         <li><a href="W02_03_homework.php">homework</a></li>
+        <li><a href="W06_01_LoopProduct.php.php">Show Product(Fix data)</a></li>
+        <li><a href=""></a>Connect Database</li>
+        <li><a href=""></a>Show Product (Feom Datase)</li>
     </ul>
     
 
