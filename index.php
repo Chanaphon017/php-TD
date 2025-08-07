@@ -43,8 +43,9 @@
         <li><a href="W02_02_grade.php">Calute Grade</a></li>
         <li><a href="W02_03_homework.php">homework</a></li>
         <li><a href="W06_01_LoopProduct.php.php">Show Product(Fix data)</a></li>
-        <li><a href=""></a>Connect Database</li>
-        <li><a href=""></a>Show Product (Feom Datase)</li>
+        <li><a href="W07_01_ConnectDB.php">Connect Database</a></li>
+        <li><a href="W07_02_fetchData.php">fetch Data</a></li>
+        <li><a href="W08_01_productFromDB.php">Show Product (Feom Datase)</a></li>
     </ul>
     
 

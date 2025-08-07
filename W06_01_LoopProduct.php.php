@@ -100,5 +100,8 @@
     <script>
         let table = new DataTable('#productTable');
     </script>
+    <div class="mt-4">
+        <a href="index.php"><button class="floating-btn">Back</button></a>
+    </div>
 </body>
 </html>
